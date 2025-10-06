@@ -2,7 +2,7 @@
 
 ## 📖 Contexto Histórico
 
-En 2006 entrenar una red neuronal profunda (DNN) era considerado imposible. Este año, Geoffrey Hinton publicó el paper [A Fast Learning Algorithm for Deep Belief Nets](https://www.cs.toronto.edu/~hinton/absps/vnips.pdf) donde muestra cómo entrenar una DNN. Este paper revivió el interés de la comunidad científica.
+En 2006 entrenar una red neuronal profunda (DNN) era considerado imposible. Este año, Geoffrey Hinton publicó el paper [Inferring Motor Programs from Images of Handwritten Digits](https://www.cs.toronto.edu/~hinton/absps/vnips.pdf) donde muestra cómo entrenar una DNN. Este paper revivió el interés de la comunidad científica.
 
 Hoy en día el ML ha conquistado la industria.
 
