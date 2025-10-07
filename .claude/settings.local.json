@@ -3,7 +3,21 @@
     "allow": [
       "WebSearch",
       "Bash(dir:*)",
-      "Bash(mkdir:*)"
+      "Bash(mkdir:*)",
+      "Bash(\"C:\\ProgramData\\anaconda3\\envs\\ml_learning\\python.exe\" -c \"import sklearn, pandas, matplotlib, numpy; print(''✓ Todos los paquetes instalados correctamente''); print(f''Python: {__import__(\"\"sys\"\").version}''); print(f''scikit-learn: {sklearn.__version__}''); print(f''pandas: {pandas.__version__}'')\")",
+      "Bash(\"C:\\ProgramData\\anaconda3\\envs\\ml_learning\\python.exe\" -m pip install --force-reinstall --no-cache-dir pandas)",
+      "Bash(\"C:\\ProgramData\\anaconda3\\envs\\ml_learning\\python.exe\" -m pip install matplotlib scikit-learn)",
+      "Bash(\"C:\\ProgramData\\anaconda3\\envs\\ml_learning\\python.exe\" -c \"import sklearn, pandas, matplotlib, numpy; print(''Todos los paquetes instalados correctamente''); print(f''Python: {__import__(\"\"sys\"\").version}''); print(f''scikit-learn: {sklearn.__version__}''); print(f''pandas: {pandas.__version__}'')\")",
+      "Bash(\"C:\\Users\\U2301020\\.conda\\envs\\ml_learning_fix\\python.exe\" -m ipykernel install --user --name ml_learning_fix --display-name \"Python (ml_learning_fix)\")",
+      "Bash(\"C:\\Users\\U2301020\\.conda\\envs\\ml_learning_fix\\python.exe\" -m pip list)",
+      "Bash(conda:*)",
+      "Bash(where python)",
+      "Bash(\"C:\\Users\\U2301020\\.conda\\envs\\ml_learning_fix\\python.exe\" --version)",
+      "Bash(\"C:\\Users\\U2301020\\.conda\\envs\\ml_learning_fix\\python.exe\" -c \"import ipykernel; print(ipykernel.__version__)\")",
+      "Bash(C:UsersU2301020.condaenvsml_learning_fixpython.exe --version)",
+      "Bash(\"C:\\ProgramData\\anaconda3\\envs\\mlenv\\python.exe\" -m pip install ipykernel numpy pandas matplotlib scikit-learn jupyter)",
+      "Bash(\"C:\\ProgramData\\anaconda3\\envs\\mlenv_py313\\python.exe\" -m pip install ipykernel numpy pandas matplotlib scikit-learn jupyter)",
+      "Bash(\"C:\\ProgramData\\anaconda3\\envs\\mlenv_py313\\python.exe\" -m ipykernel install --user --name mlenv_py313 --display-name \"Python 3.13.1 (mlenv)\")"
     ],
     "deny": [],
     "ask": []
