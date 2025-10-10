@@ -4,6 +4,11 @@
 
 Los datos de entrenamiento incluyen la solución denominada **"label"**.
 
+<div align="center">
+  <img src="./assets/Aprendizaje_supervisado.png" alt="Aprendizaje Supervisado" width="600"/>
+  <p><em>Un buen ejemplo de aprendizaje supervisado es la clasificación del spam en el correo electrónico. El aprendizaje supervisado se caracteriza porque todo el conjunto de datos que usas para entrenar un modelo está etiquetado, cada muestra contiene información sobre sí misma, para que el modelo pueda aprender.</em></p>
+</div>
+
 ### Tareas Típicas
 
 - **Clasificación** (como filtros de spam)
@@ -19,11 +24,6 @@ Los datos de entrenamiento incluyen la solución denominada **"label"**.
 - **Support Vector Machines (SVMs)**
 - **Decision trees and random forests**
 - **Neural networks** (aunque algunas arquitecturas pueden ser no supervisadas o semisupervisadas)
-
-<div align="center">
-  <img src="./assets/Aprendizaje_supervisado.png" alt="Aprendizaje Supervisado" width="600"/>
-  <p><em>Un buen ejemplo de aprendizaje supervisado es la clasificación del spam en el correo electrónico. El aprendizaje supervisado se caracteriza porque todo el conjunto de datos que usas para entrenar un modelo está etiquetado, cada muestra contiene información sobre sí misma, para que el modelo pueda aprender.</em></p>
-</div>
 
 ---
 
