@@ -17,7 +17,8 @@
       "Bash(C:UsersU2301020.condaenvsml_learning_fixpython.exe --version)",
       "Bash(\"C:\\ProgramData\\anaconda3\\envs\\mlenv\\python.exe\" -m pip install ipykernel numpy pandas matplotlib scikit-learn jupyter)",
       "Bash(\"C:\\ProgramData\\anaconda3\\envs\\mlenv_py313\\python.exe\" -m pip install ipykernel numpy pandas matplotlib scikit-learn jupyter)",
-      "Bash(\"C:\\ProgramData\\anaconda3\\envs\\mlenv_py313\\python.exe\" -m ipykernel install --user --name mlenv_py313 --display-name \"Python 3.13.1 (mlenv)\")"
+      "Bash(\"C:\\ProgramData\\anaconda3\\envs\\mlenv_py313\\python.exe\" -m ipykernel install --user --name mlenv_py313 --display-name \"Python 3.13.1 (mlenv)\")",
+      "Bash(cat:*)"
     ],
     "deny": [],
     "ask": []
